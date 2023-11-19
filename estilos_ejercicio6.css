@@ -1,0 +1,112 @@
+body {
+
+    text-align: center;
+    background-color: #1e2019;
+    color: #d3d0cb;
+    margin: 0px;
+}
+
+
+
+header {
+
+    background-color: #d3d0cb;
+    padding: 10px;
+}
+
+
+a {
+
+    color: #1e2019;
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+a:hover {
+
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+#logo {
+
+    height: 150px;
+}
+
+
+
+form {
+
+    width: auto;
+    border: 2px solid #d3d0cb;
+    border-radius: 5px;
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 1px;
+}
+
+
+
+
+.condicions {
+
+    color: #d3d0cb;
+    text-decoration: underline;
+}
+
+
+
+
+#boton {
+  
+    width: 75px ;
+    height: 30px ;
+    background: #e2c044;
+    border-radius: 4px;
+    color: #1e2019;
+    outline: none;
+  }
+
+
+  #boton:hover {
+  
+    background-color: #e2c044d8;
+  }
+
+
+  input[type="checkbox"]{
+    accent-color: #587c7f;
+  }
+
+
+
+  input[type=text]:focus {
+    border: 2px solid #e2c044;
+  }
+
+
+  input[type=email]:focus {
+    border: 2px solid #e2c044;
+  }
+
+
+  .texto:focus {
+    border: 2px solid #e2c044;
+  
+  }
+
+
+  input[type=radio]:focus {
+
+    border: 5px solid #e2c044;
+    accent-color: #587c7f;
+  }
+
+
+label {
+
+    width: 500px;
+}
